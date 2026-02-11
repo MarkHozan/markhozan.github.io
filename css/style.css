@@ -88,7 +88,7 @@ textarea {
 :root{
   --page-bg: #F7F381;
   --heart-color: #FCA2FC;
-  --text-color: #757556;
+  --text-color: #D1D1BA;
   /* small vmin-based shift to visually center the (large) text inside the heart */
   /* increased so the doubled text sits more centered visually */
   --name-shift: -2.6vmin;
