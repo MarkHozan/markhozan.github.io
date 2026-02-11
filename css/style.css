@@ -358,7 +358,7 @@ body{
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  color: var(--text-color);
+  color: #815a5c;
   font-family: 'Brush Script MT', cursive, sans-serif;
 }
 
