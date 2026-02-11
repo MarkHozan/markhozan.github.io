@@ -2,16 +2,16 @@
   // Use the actual images from the /img folder with updated captions provided by the user
   // Swap photos 7 & 8 (sources swapped, titles left in place)
   const IMAGES = [
-    { src: 'img/IMG-20250819-WA0002.jpeg', title: 'Ever since we met', desc: '' },
-    { src: 'img/IMG-20250820-WA0005.jpeg', title: "I knew you'd be the one", desc: '' },
-    { src: 'img/IMG-20251228-WA0000.jpg', title: 'Every moment with you is so precious', desc: '' },
-    { src: 'img/IMG-20260104-WA0013.jpg', title: "I've prayed all my life for you", desc: '' },
-    { src: 'img/PXL_20251224_192530235.jpg', title: 'And I am grateful to God that he answered me', desc: '' },
-    { src: 'img/PXL_20251230_225823676.jpg', title: 'I ask him to bless our relationship continually', desc: '' },
-    { src: 'img/PXL_20250821_144901203.jpg', title: 'His blessings are greater than I could possibly say', desc: '' },
+    { src: 'img/IMG-20250819-WA0002.jpeg', title: 'Ever since we met,', desc: '' },
+    { src: 'img/IMG-20250820-WA0005.jpeg', title: "I knew you were the one,", desc: '' },
+    { src: 'img/IMG-20251228-WA0000.jpg', title: 'my everything.', desc: '' },
+    { src: 'img/IMG-20260104-WA0013.jpg', title: "I've prayed for you all my life.", desc: '' },
+    { src: 'img/PXL_20251224_192530235.jpg', title: 'God answered me.', desc: '' },
+    { src: 'img/PXL_20251230_225823676.jpg', title: 'He blessed me.', desc: '' },
+    { src: 'img/PXL_20250821_144901203.jpg', title: '"We love because He first loved us." - 1 John 4:19', desc: '' },
     { src: 'img/PXL_20250820_121608439.jpg', title: 'I love you, Diana', desc: '' },
-    { src: 'img/IMG-20260106-WA0001.jpg', title: "Here's to our new beginning", desc: '' },
-    { src: 'img/IMG-20260106-WA0002.jpg', title: 'forever ♥︎', desc: '' }
+    { src: 'img/IMG-20260106-WA0001.jpg', title: "Here's to our new beginning...", desc: '' },
+    { src: 'img/IMG-20260106-WA0002.jpg', title: 'to our forever ♥︎', desc: '' }
   ];
 
   const heartButton = document.getElementById('heartButton');
