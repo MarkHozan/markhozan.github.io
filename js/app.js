@@ -4,11 +4,11 @@
   const IMAGES = [
     { src: 'img/IMG-20250819-WA0002.jpeg', title: 'Ever since we met', desc: '' },
     { src: 'img/IMG-20250820-WA0005.jpeg', title: "I knew you'd be the one", desc: '' },
-    { src: 'img/IMG-20251228-WA0000.jpg', title: 'Every moment spent with you is worth more than I could express', desc: '' },
+    { src: 'img/IMG-20251228-WA0000.jpg', title: 'Every moment with you is so precious', desc: '' },
     { src: 'img/IMG-20260104-WA0013.jpg', title: "I've prayed all my life for you", desc: '' },
     { src: 'img/PXL_20251224_192530235.jpg', title: 'And I am grateful to God that he answered me', desc: '' },
     { src: 'img/PXL_20251230_225823676.jpg', title: 'I ask him to bless our relationship continually', desc: '' },
-    { src: 'img/PXL_20250821_144901203.jpg', title: 'And I know that his blessings are greater than I could possibly say', desc: '' },
+    { src: 'img/PXL_20250821_144901203.jpg', title: 'His blessings are greater than I could possibly say', desc: '' },
     { src: 'img/PXL_20250820_121608439.jpg', title: 'I love you, Diana', desc: '' },
     { src: 'img/IMG-20260106-WA0001.jpg', title: "Here's to our new beginning", desc: '' },
     { src: 'img/IMG-20260106-WA0002.jpg', title: 'forever ♥︎', desc: '' }
